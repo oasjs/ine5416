@@ -1,2 +1,14 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore interface files
 **/*.hi
+
+# Ignore object files
 **/*.o
